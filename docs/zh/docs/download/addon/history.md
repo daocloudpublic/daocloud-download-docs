@@ -10,6 +10,9 @@ hide:
 
 | 文件名称 | 版本 | 架构 | 文件大小 | 下载 | 更新日期 |
 | ------- | --- | ---- | ------ | --- | ------- |
+| gpu-addon-offline-package-v0.25.0-amd64.tar.gz | v0.25.0 | AMD 64 | 9.71GB | [:arrow_right: 下载页](./v0.25.0.md) | 2025-02-06 |
+| standard-addon-offline-package-v0.25.0-arm64.tar.gz | v0.25.0 | ARM 64 | 20.41GB | [:arrow_right: 下载页](./v0.25.0.md) | 2025-02-06 |
+| standard-addon-offline-package-v0.25.0-amd64.tar.gz | v0.25.0 | AMD 64 | 29.66GB | [:arrow_right: 下载页](./v0.25.0.md) | 2025-02-06 |
 | gpu-addon-offline-package-v0.24.0-amd64.tar.gz | v0.24.0 | AMD 64 | 9.71 GB | [:arrow_right: 下载页](./v0.24.0.md) | 2024-12-09 |
 | standard-addon-offline-package-v0.24.0-arm64.tar.gz | v0.24.0 | <font color="green">ARM 64</font> | 20.68 GB | [:arrow_right: 下载页](./v0.24.0.md) | 2024-12-09 |
 | standard-addon-offline-package-v0.24.0-amd64.tar.gz | v0.24.0 | AMD 64 | 30.40 GB | [:arrow_right: 下载页](./v0.24.0.md) | 2024-12-09 |
