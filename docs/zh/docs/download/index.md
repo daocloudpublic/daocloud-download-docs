@@ -63,7 +63,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | | 云原生网络 | 63.76 MB | [:arrow_right: 下载页](./modules/spidernet.md) | 2025-07-31 |
 | | 云原生存储 | 1.62 GB | [:arrow_right: 下载页](./modules/hwameistor.md)| 2023-11-06 |
 | | 虚拟机 | 1.43 GB | [:arrow_right: 下载页](./modules/virtnest.md) | 2025-07-01 |
-| 微服务 | 可观测性 | 2.21 GB | [:arrow_right: 下载页](./modules/insight.md) | 2025-07-02 |
+| 微服务 | 可观测性 | 2.21 GB | [:arrow_right: 下载页](./modules/insight.md) | 2025-08-05 |
 | | 仪表盘| 51 MB | [:arrow_right: 下载页](./modules/ipavo.md) | 2024-10-28 |
 | | 微服务引擎| 1.66 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2024-12-30 |
 | | 服务网格 | 1.04 GB | [:arrow_right: 下载页](./modules/mspider.md) | 2025-08-01 |
