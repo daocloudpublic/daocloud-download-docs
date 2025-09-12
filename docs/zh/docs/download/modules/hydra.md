@@ -11,6 +11,8 @@ hide:
 
 | 版本 | 架构 | 文件大小 | 安装包 | 校验文件 | 更新日期 |
 | ---- | --- | ------ | ------ | ------ | ------- |
+| [v0.10-dev-73956bb2](../../hydra/intro/release-notes.md) | ARM 64 | 653.18MB | [:arrow_down: hydra_v0.10-dev-73956bb2_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.10-dev-73956bb2_arm64.tar) | [:arrow_down: hydra_v0.10-dev-73956bb2_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.10-dev-73956bb2_arm64_checksum.sha512sum) | 2025-09-12 |
+| [v0.10-dev-73956bb2](../../hydra/intro/release-notes.md) | AMD 64 | 678.40MB | [:arrow_down: hydra_v0.10-dev-73956bb2_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.10-dev-73956bb2_amd64.tar) | [:arrow_down: hydra_v0.10-dev-73956bb2_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.10-dev-73956bb2_amd64_checksum.sha512sum) | 2025-09-12 |
 | [v0.9.0](../../hydra/intro/release-notes.md) | <font color="green">ARM 64</font> | 653 MB | [:arrow_down: hydra_v0.9.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.9.0_arm64.tar) | [:arrow_down: hydra_v0.9.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.9.0_arm64_checksum.sha512sum) | 2025-09-01 |
 | [v0.9.0](../../hydra/intro/release-notes.md) | AMD 64 | 678 MB | [:arrow_down: hydra_v0.9.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.9.0_amd64.tar) | [:arrow_down: hydra_v0.9.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.9.0_amd64_checksum.sha512sum) | 2025-09-01 |
 
