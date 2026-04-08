@@ -13,6 +13,8 @@ On this page, you can download offline packages for various versions of the baiz
 
 | Version | Architecture | Size | Package | Checksum | Date |
 |---------|--------------|------|-----|--------------|------|
+| [v0.25.1](../../baize/intro/release-notes.md) | <font color=green>ARM 64</font> | 10 GB | [:arrow_down: baize_v0.25.1_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/baize_v0.25.1_arm64.tar) | [:arrow_down: baize_v0.25.1_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/baize_v0.25.1_arm64_checksum.sha512sum) | 2026-04-08 |
+| [v0.25.1](../../baize/intro/release-notes.md) | AMD 64 | 10 GB | [:arrow_down: baize_v0.25.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/baize_v0.25.1_amd64.tar) | [:arrow_down: baize_v0.25.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/baize_v0.25.1_amd64_checksum.sha512sum) | 2026-04-08 |
 | [v0.25.1](../../baize/intro/release-notes.md) | <font color=green>ARM 64</font> | 1.58 GB | [:arrow_down: baize_v0.25.1_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/baize_v0.25.1_arm64.tar) | [:arrow_down: baize_v0.25.1_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/baize_v0.25.1_arm64_checksum.sha512sum) | 2026-04-08 |
 | [v0.25.1](../../baize/intro/release-notes.md) | AMD 64 | 1.65 GB | [:arrow_down: baize_v0.25.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/baize_v0.25.1_amd64.tar) | [:arrow_down: baize_v0.25.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/baize_v0.25.1_amd64_checksum.sha512sum) | 2026-04-08 |
 

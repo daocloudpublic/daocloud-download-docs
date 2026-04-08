@@ -72,7 +72,7 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | | Ipavo | 51 MB | [:arrow_right: Go to Download](./modules/ipavo.md) | 2024-10-28 |
 | | Microservice Engine | 1.66 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2024-12-30 |
 | | Service Mesh | 1.04 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2025-02-03 |
-| | AI Lab | 1.65 GB | [:arrow_right: Go to Download](./modules/baize.md) | 2026-04-08 |
+| | AI Lab | 10 GB | [:arrow_right: Go to Download](./modules/baize.md) | 2026-04-08 |
 | Middleware| Elasticsearch | 1.95 GB | [:arrow_right: Go to Download](./modules/middleware/elasticsearch.md) | 2025-12-16 |
 | | Kafka | 1.29 GB | [:arrow_right: Go to Download](./modules/middleware/kafka.md) | 2025-12-16 |
 | | MinIO | 180.98 MB | [:arrow_right: Go to Download](./modules/middleware/minio.md) | 2025-12-16 |
