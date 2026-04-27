@@ -11,6 +11,7 @@ inferx:
 
 | 版本 | 架构 | 文件大小 | 安装包 | 校验文件 | 更新日期 |
 | ---- | --- | ------ | ------ | ------ | ------- |
+| [0.1.0](../../inferx/intro/release-notes.md) | AMD 64 | 10.10GB | [:arrow_down: inferx_0.1.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/inferx_0.1.0_amd64.tar) | [:arrow_down: inferx_0.1.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/inferx_0.1.0_amd64_checksum.sha512sum) | 2026-04-27 |
 
 
 ??? note "展开查看历史版本"
