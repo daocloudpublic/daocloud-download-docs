@@ -82,7 +82,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | | 运营管理 | 124.49 MB | [:arrow_right: 下载页](./modules/gmagpie.md) | 2026-06-27 |
 | | 设备管理 | 47.89 MB | [:arrow_right: 下载页](./modules/topohub.md) | 2025-06-27 |
 | 云原生 AI | 推理加速 | 9.98 GB | [:arrow_right: 下载页](./modules/inferx.md) | 2026-04-27 |
-| | ClawOS | - | [:arrow_right: 下载页](./modules/agentclaw.md) | - |
+| | ClawOS | - | [:arrow_right: 下载页](./modules/agentclaw.md) | 2026-07-31 |
 
 !!! note
 
