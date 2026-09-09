@@ -65,7 +65,7 @@
 | | 仪表盘 | 51 MB | [:arrow_right: 下载页](./modules/ipavo.md) | 2024-10-28 |
 | | 微服务引擎 | 3.04 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2026-08-26 |
 | | 服务网格 | 1.25 GB | [:arrow_right: 下载页](./modules/mspider.md) | 2026-07-28 |
-| | AI Lab | 1.64 GB | [:arrow_right: 下载页](./modules/baize.md) | 2026-09-02 |
+| | AI Lab | 1.64 GB | [:arrow_right: 下载页](./modules/baize.md) | 2026-09-09 |
 | 中间件 | Elasticsearch | 1.95 GB | [:arrow_right: 下载页](./modules/middleware/elasticsearch.md) | 2025-12-16 |
 | | Kafka | 1.29 GB | [:arrow_right: 下载页](./modules/middleware/kafka.md) | 2025-12-16 |
 | | MinIO | 180.98 MB | [:arrow_right: 下载页](./modules/middleware/minio.md) | 2025-12-16 |
