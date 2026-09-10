@@ -70,7 +70,7 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 | | Ipavo | 51 MB | [:arrow_right: Go to Download](./modules/ipavo.md) | 2024-10-28 |
 | | Microservice Engine | 3.04 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2026-08-26 |
 | | Service Mesh | 1.25 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2026-07-28 |
-| | AI Lab | 1.64 GB | [:arrow_right: Go to Download](./modules/baize.md) | 2026-09-02 |
+| | AI Lab | 1.64 GB | [:arrow_right: Go to Download](./modules/baize.md) | 2026-09-09 |
 | Middleware| Elasticsearch | 1.95 GB | [:arrow_right: Go to Download](./modules/middleware/elasticsearch.md) | 2025-12-16 |
 | | Kafka | 1.29 GB | [:arrow_right: Go to Download](./modules/middleware/kafka.md) | 2025-12-16 |
 | | MinIO | 180.98 MB | [:arrow_right: Go to Download](./modules/middleware/minio.md) | 2025-12-16 |
